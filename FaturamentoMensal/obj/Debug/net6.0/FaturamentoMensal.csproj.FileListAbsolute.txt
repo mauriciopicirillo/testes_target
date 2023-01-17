@@ -1,0 +1,15 @@
+D:\Bootcamps\target-test\FaturamentoMensal\obj\Debug\net6.0\FaturamentoMensal.csproj.AssemblyReference.cache
+D:\Bootcamps\target-test\FaturamentoMensal\obj\Debug\net6.0\FaturamentoMensal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamps\target-test\FaturamentoMensal\obj\Debug\net6.0\FaturamentoMensal.AssemblyInfoInputs.cache
+D:\Bootcamps\target-test\FaturamentoMensal\obj\Debug\net6.0\FaturamentoMensal.AssemblyInfo.cs
+D:\Bootcamps\target-test\FaturamentoMensal\obj\Debug\net6.0\FaturamentoMensal.csproj.CoreCompileInputs.cache
+D:\Bootcamps\target-test\FaturamentoMensal\bin\Debug\net6.0\FaturamentoMensal.exe
+D:\Bootcamps\target-test\FaturamentoMensal\bin\Debug\net6.0\FaturamentoMensal.deps.json
+D:\Bootcamps\target-test\FaturamentoMensal\bin\Debug\net6.0\FaturamentoMensal.runtimeconfig.json
+D:\Bootcamps\target-test\FaturamentoMensal\bin\Debug\net6.0\FaturamentoMensal.dll
+D:\Bootcamps\target-test\FaturamentoMensal\bin\Debug\net6.0\FaturamentoMensal.pdb
+D:\Bootcamps\target-test\FaturamentoMensal\obj\Debug\net6.0\FaturamentoMensal.dll
+D:\Bootcamps\target-test\FaturamentoMensal\obj\Debug\net6.0\refint\FaturamentoMensal.dll
+D:\Bootcamps\target-test\FaturamentoMensal\obj\Debug\net6.0\FaturamentoMensal.pdb
+D:\Bootcamps\target-test\FaturamentoMensal\obj\Debug\net6.0\FaturamentoMensal.genruntimeconfig.cache
+D:\Bootcamps\target-test\FaturamentoMensal\obj\Debug\net6.0\ref\FaturamentoMensal.dll

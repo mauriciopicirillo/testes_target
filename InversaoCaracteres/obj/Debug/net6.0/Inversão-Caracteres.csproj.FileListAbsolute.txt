@@ -1,0 +1,15 @@
+D:\Bootcamps\target-test\Inversão-Caracteres\obj\Debug\net6.0\Inversão-Caracteres.csproj.AssemblyReference.cache
+D:\Bootcamps\target-test\Inversão-Caracteres\obj\Debug\net6.0\Inversão-Caracteres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamps\target-test\Inversão-Caracteres\obj\Debug\net6.0\Inversão-Caracteres.AssemblyInfoInputs.cache
+D:\Bootcamps\target-test\Inversão-Caracteres\obj\Debug\net6.0\Inversão-Caracteres.AssemblyInfo.cs
+D:\Bootcamps\target-test\Inversão-Caracteres\obj\Debug\net6.0\Inversão-Caracteres.csproj.CoreCompileInputs.cache
+D:\Bootcamps\target-test\Inversão-Caracteres\bin\Debug\net6.0\Inversão-Caracteres.exe
+D:\Bootcamps\target-test\Inversão-Caracteres\bin\Debug\net6.0\Inversão-Caracteres.deps.json
+D:\Bootcamps\target-test\Inversão-Caracteres\bin\Debug\net6.0\Inversão-Caracteres.runtimeconfig.json
+D:\Bootcamps\target-test\Inversão-Caracteres\bin\Debug\net6.0\Inversão-Caracteres.dll
+D:\Bootcamps\target-test\Inversão-Caracteres\bin\Debug\net6.0\Inversão-Caracteres.pdb
+D:\Bootcamps\target-test\Inversão-Caracteres\obj\Debug\net6.0\Inversão-Caracteres.dll
+D:\Bootcamps\target-test\Inversão-Caracteres\obj\Debug\net6.0\refint\Inversão-Caracteres.dll
+D:\Bootcamps\target-test\Inversão-Caracteres\obj\Debug\net6.0\Inversão-Caracteres.pdb
+D:\Bootcamps\target-test\Inversão-Caracteres\obj\Debug\net6.0\Inversão-Caracteres.genruntimeconfig.cache
+D:\Bootcamps\target-test\Inversão-Caracteres\obj\Debug\net6.0\ref\Inversão-Caracteres.dll

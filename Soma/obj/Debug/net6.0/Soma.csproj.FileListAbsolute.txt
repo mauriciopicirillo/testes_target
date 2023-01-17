@@ -1,0 +1,15 @@
+D:\Bootcamps\target-test\Soma\bin\Debug\net6.0\Soma.exe
+D:\Bootcamps\target-test\Soma\bin\Debug\net6.0\Soma.deps.json
+D:\Bootcamps\target-test\Soma\bin\Debug\net6.0\Soma.runtimeconfig.json
+D:\Bootcamps\target-test\Soma\bin\Debug\net6.0\Soma.dll
+D:\Bootcamps\target-test\Soma\bin\Debug\net6.0\Soma.pdb
+D:\Bootcamps\target-test\Soma\obj\Debug\net6.0\Soma.csproj.AssemblyReference.cache
+D:\Bootcamps\target-test\Soma\obj\Debug\net6.0\Soma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamps\target-test\Soma\obj\Debug\net6.0\Soma.AssemblyInfoInputs.cache
+D:\Bootcamps\target-test\Soma\obj\Debug\net6.0\Soma.AssemblyInfo.cs
+D:\Bootcamps\target-test\Soma\obj\Debug\net6.0\Soma.csproj.CoreCompileInputs.cache
+D:\Bootcamps\target-test\Soma\obj\Debug\net6.0\Soma.dll
+D:\Bootcamps\target-test\Soma\obj\Debug\net6.0\refint\Soma.dll
+D:\Bootcamps\target-test\Soma\obj\Debug\net6.0\Soma.pdb
+D:\Bootcamps\target-test\Soma\obj\Debug\net6.0\Soma.genruntimeconfig.cache
+D:\Bootcamps\target-test\Soma\obj\Debug\net6.0\ref\Soma.dll
